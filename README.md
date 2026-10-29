@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Image+Viewer-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 NexusImage Free Installer** — NexusImage is a lightweight, free image viewer for Windows that offers fast browsing of large image collections. Works without internet access, no account required. Full offline installation.
+**💻 NexusImage Free Installer** — NexusImage is a free, fast image viewer for Windows with a clean interface, slideshow mode, basic editing tools, and support for RAW camera formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About NexusImage
 
-NexusImage is a lightweight, free image viewer for Windows that offers fast browsing of large image collections. Supports all common image formats with smooth zooming, rotation, and slideshow features. NexusImage is designed for speed and simplicity, providing a clean alternative to heavier image editing applications when you just need to view and browse photos.
+NexusImage is a free, fast image viewer for Windows with a clean interface, slideshow mode, basic editing tools, and support for RAW camera formats. Part of the Nexus software family alongside NexusFile and NexusFont.
 
 ---
 
 ## ❌ Problem: NexusImage is hard to access
 
-- **Windows Only** — No cross-platform version
-- **Viewing Only** — No image editing capabilities
-- **Limited Metadata** — EXIF data display less comprehensive than specialized tools
-- **Development Status** — Less actively maintained than major image viewers
+- **Windows Only** — Not available on macOS or Linux
+- **Basic Editing** — Limited editing tools compared to dedicated image editors
+- **Development Pace** — Updates arrive infrequently
+- **Competition** — IrfanView and FastStone offer similar features with larger communities
 
 ---
 
@@ -121,7 +121,7 @@ NexusImage is a lightweight, free image viewer for Windows that offers fast brow
 
 ---
 
-**NexusImage Free Installer** — NexusImage is a lightweight, free image viewer for Windows that offers fast browsing of large image collections. Install without internet connection today!
+**NexusImage Free Installer** — NexusImage is a free, fast image viewer for Windows with a clean interface, slideshow mode, basic editing tools, and support for RAW camera formats. Install without internet connection today!
 
 <div align="center">
 
